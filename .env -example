@@ -1,0 +1,9 @@
+NODE_ENV=development
+
+
+#Development Database
+DATABASE_NAME_DEV=
+DATABASE_HOST_DEV=localhost
+DATABASE_USER_DEV=postgres
+DATABASE_PASS_DEV=
+DATABASE_DIALECT_DEV=postgres
